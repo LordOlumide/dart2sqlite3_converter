@@ -1,0 +1,1 @@
+Running this program will generate the `assets/hymns_database.sqlite3` from the `assets/hymns.json`.
